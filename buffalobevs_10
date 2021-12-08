@@ -1,0 +1,17 @@
+{
+  "$id": "buffalobevs_10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "buffalobevs_type": "Lambrusco",
+    "buffalobevs_vineyard": "Carl Cellars",
+    "buffalobevs_vintage": "1995",
+    "yext/color": "Red",
+    "yext/description": "Yum",
+    "yext/name": "BlahBlahBlah",
+    "yext/priceRange": "THREE"
+  },
+  "entityType": "buffalobevs_Wine",
+  "folder": "yext/root",
+  "labels": []
+}
