@@ -1,5 +1,5 @@
 {
-  "$id": "buffalobevs_10",
+  "$id": "buffalobevs_13",
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
@@ -8,7 +8,7 @@
     "buffalobevs_vintage": "1995",
     "yext/color": "Red",
     "yext/description": "Yum",
-    "yext/name": "BlahBlahBlah",
+    "yext/name": "NEW WINE",
     "yext/priceRange": "THREE"
   },
   "entityType": "buffalobevs_Wine",
